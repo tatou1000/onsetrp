@@ -27,7 +27,12 @@
         "whitelist/server.lua",
         "animation/server.lua",
         "police/server.lua",
-        "onset-phone/server.lua"
+        "noclip/server.lua",
+        "stylist/server.lua",
+        "idcard/server.lua",
+        "licenses/server.lua",
+        "onset-phone/server.lua",
+        "transport/s_busstop.lua"
     ],
     "client_scripts": [
         "hunger/client.lua",
@@ -54,7 +59,13 @@
         "notification/client.lua",
         "animation/client.lua",
         "police/client.lua",
-        "onset-phone/client.lua"
+        "noclip/client.lua",
+        "stylist/client.lua",
+        "onset-phone/client.lua",
+        "idcard/client.lua",
+        "licenses/client.lua",
+        "holiday/client.lua",
+        "transport/c_busstop.lua"
     ],
     "files": [
         "hud/speaking/speaking.png",
@@ -98,6 +109,9 @@
         "onset-phone/ui/dist/app.css",
         "client/files/carLock.mp3",
         "client/files/carUnlock.mp3",
-        "client/files/notification.mp3"
+        "idcard/id.html",
+        "idcard/id.js",
+        "idcard/id.css",
+        "idcard/Cedarville-Cursive.ttf"
     ]
 }
